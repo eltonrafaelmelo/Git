@@ -62,8 +62,14 @@ GIT REVERT --NO-EDIT
 Se quisermos voltar atrás, desfazendo as alterações no repositório, pode- mos utilizar o comando:
 $ git revert --no-edit <codigo comit>
 
+GIT PUSH
+Para enviar os commits locais, que ainda não existem no servidor, de- vemos utilizar o comando:
+$ git push
 
 
+GIT PULL
+para baixar novas atualizações utilizar o comando
+$ git pull
 
 
 
