@@ -36,3 +36,11 @@ $ ls -lha
 GIT DIFF:
 para verificar as alterações antes do commit executer o comando:
 $ git diff
+
+GIT RM:
+para remover um arquivo do git execute o comando:
+$ git rm <arquivo>
+
+GIT MV
+para renomear um arquivo execute o comando:
+$ git mv oldNome.pdf newNome.pdf
