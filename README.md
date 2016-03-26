@@ -32,3 +32,4 @@ $ ls
 LS -LHA
 lista todos os arquivos da pasta até os ocultos:
 $ ls -lha
+    
