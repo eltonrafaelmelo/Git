@@ -19,4 +19,8 @@ $ git push
 
 GIT CLONE <url repositorio git>:
 para baixar um projeto, arquivo ou pasta do git se você é usuario do git basta executar o comando:
-git clone git@github.com:eltonrafaelmelo/Git.git
+$ git clone git@github.com:eltonrafaelmelo/Git.git
+
+GIT LOG:
+para ver os comite do repositorio basta executar o comando:
+$ git log
