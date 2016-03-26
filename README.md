@@ -56,3 +56,26 @@ $ git checkout --<arquivo>
 GIT RESET --<ARQUIVO>
 para terirar o arquivo do git add sem perder suas modificações execute:
 $ git reset --<arquivo>
+
+
+GIT REVERT --NO-EDIT
+Se quisermos voltar atrás, desfazendo as alterações no repositório, pode- mos utilizar o comando:
+$ git revert --no-edit <codigo comit>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
