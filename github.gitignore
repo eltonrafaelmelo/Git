@@ -1,0 +1,8 @@
+# Xcode
+#
+# gitignore contributors:
+## Arquivos e pastas que devem ser iginorados e não enviados para git 
+
+*.pdf
+ imagens/
+
