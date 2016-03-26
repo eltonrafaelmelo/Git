@@ -44,3 +44,7 @@ $ git rm <arquivo>
 GIT MV
 para renomear um arquivo execute o comando:
 $ git mv oldNome.pdf newNome.pdf
+
+MOVENDO ARQUIVOS PARA OUTRA PASTA
+para mover um arquivo para outra pasta já existente basta execultar:
+$ git rm arquivo pasta/arquivo
