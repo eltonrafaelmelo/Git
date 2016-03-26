@@ -48,3 +48,7 @@ $ git mv oldNome.pdf newNome.pdf
 MOVENDO ARQUIVOS PARA OUTRA PASTA
 para mover um arquivo para outra pasta já existente basta execultar:
 $ git rm arquivo pasta/arquivo
+
+GIT CHECKOUT --<ARQUIVO>
+para desfazer uma alteração que ainda não foi commitada execute:
+$ git checkout --<arquivo>
