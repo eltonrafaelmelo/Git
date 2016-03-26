@@ -24,3 +24,11 @@ $ git clone git@github.com:eltonrafaelmelo/Git.git
 GIT LOG:
 para ver os comite do repositorio basta executar o comando:
 $ git log
+
+LS:
+lista os arquivos da pasta:
+$ ls
+
+LS -LHA
+lista todos os arquivos da pasta até os ocultos:
+$ ls -lha
