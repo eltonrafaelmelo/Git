@@ -52,3 +52,7 @@ $ git rm arquivo pasta/arquivo
 GIT CHECKOUT --<ARQUIVO>
 para desfazer uma alteração que ainda não foi commitada execute:
 $ git checkout --<arquivo>
+
+GIT RESET --<ARQUIVO>
+para terirar o arquivo do git add sem perder suas modificações execute:
+$ git reset --<arquivo>
