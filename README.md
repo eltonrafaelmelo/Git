@@ -79,7 +79,9 @@ GIT BRANCH <novo branch>
 Para criarmos um NOVO branch para trabalharmos basta executarmos:
 $ git branch <nome do novo branch>
 
-
+GIT BRANCH --NO-MERGED
+podemos veri car as branches ainda não mescladas com a opção --no-merged do comando git branch:
+$ git branch --no-merged
 
 
 
