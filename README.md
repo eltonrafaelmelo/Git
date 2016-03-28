@@ -71,6 +71,40 @@ GIT PULL
 para baixar novas atualizações utilizar o comando
 $ git pull
 
+GIT BRANCH
+Para listar as branches do nosso repositório, devemos executar o comando:
+$ git branch
+
+GIT BRANCH <novo branch>
+Para criarmos um NOVO branch para trabalharmos basta executarmos:
+$ git branch <nome do novo branch>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
