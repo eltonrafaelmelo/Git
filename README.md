@@ -59,11 +59,11 @@ $ git reset --<arquivo>
 
 
 GIT REVERT --NO-EDIT
-Se quisermos voltar atrás, desfazendo as alterações no repositório, pode- mos utilizar o comando:
+Se quisermos voltar atrás, desfazendo as alterações no repositório, podemos utilizar o comando:
 $ git revert --no-edit <codigo comit>
 
 GIT PUSH
-Para enviar os commits locais, que ainda não existem no servidor, de- vemos utilizar o comando:
+Para enviar os commits locais, que ainda não existem no servidor, devemos utilizar o comando:
 $ git push
 
 
@@ -79,6 +79,9 @@ GIT BRANCH -D <Nome do branch>
 Para deletar uma branch, devemos utilizar a opção -d do comando git branch:
 $ git branch -d <Nome do branch>
 
+GIT RM
+para remover um arquivo ou pasta, basta executar:
+$ git rm <nome do arquivo>
 
 
 
