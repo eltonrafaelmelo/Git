@@ -95,6 +95,9 @@ GIT RM
 para remover um arquivo ou pasta, basta executar:
 $ git rm <nome do arquivo>
 
+GIT BRANCH -R
+Podemos listar as branches remotas passando a opção -r para o comando git branch:
+$ git branch -r
 
 
 
