@@ -75,6 +75,10 @@ GIT CHECKOUT <Nnome do Branch>
 Para trocarmos de branch, devemos executar:
 $ git checkout <Nome do branch>
 
+GIT BRANCH -D <Nome do branch>
+Para deletar uma branch, devemos utilizar a opção -d do comando git branch:
+$ git branch -d <Nome do branch>
+
 
 
 
