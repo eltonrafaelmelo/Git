@@ -71,7 +71,9 @@ GIT PULL
 para baixar novas atualizações utilizar o comando
 $ git pull
 
-
+GIT CHECKOUT <Nnome do Branch>
+Para trocarmos de branch, devemos executar:
+$ git checkout <Nome do branch>
 
 
 
